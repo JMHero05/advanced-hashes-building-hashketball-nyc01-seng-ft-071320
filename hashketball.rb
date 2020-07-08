@@ -7,7 +7,11 @@ def game_hash
         "White"
       ],
       :players => [
-        
+        {
+          "Alan Anderson" =>
+          "Reggie Evans" =>
+          "Brook Lopez"
+        }
       ]
     },
     :away => {
