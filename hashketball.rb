@@ -10,7 +10,9 @@ def game_hash
         {
           "Alan Anderson" =>
           "Reggie Evans" =>
-          "Brook Lopez"
+          "Brook Lopez" =>
+          "Mason Plumlee" =>
+          "Jason Terry" =>
         }
       ]
     },
