@@ -7,7 +7,7 @@ def game_hash
         "White"
       ],
       :players => {
-        "Alan Anderson"
+        "Alan Anderson" => {}
       }
     },
     :away => {
@@ -17,7 +17,7 @@ def game_hash
         "Purple"
       ],
       :players => [
-        
+
       ]
     }
   }
