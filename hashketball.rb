@@ -16,6 +16,7 @@ def game_hash
           :assists
           :steals
           :blocks
+          :slam_dunks
         }
       ]
     },
