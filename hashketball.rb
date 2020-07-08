@@ -6,15 +6,9 @@ def game_hash
         "Black",
         "White"
       ],
-      :players => [
-        {
-          :Alan_Anderson => {},
-          "Reggie Evans" => {},
-          "Brook Lopez" => {},
-          "Mason Plumlee" => {},
-          "Jason Terry" => {}
-        }
-      ]
+      :players => {
+        "Alan Anderson"
+      }
     },
     :away => {
       :team_name => "Charlotte Hornets",
