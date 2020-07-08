@@ -39,7 +39,7 @@ def game_hash
           :blocks => 1,
           :slam_dunks => 15
         },{
-          :player_name => "Alan Anderson",
+          :player_name => "Mason Plumlee",
           :number => 0,
           :shoe => 16,
           :points => 22,
