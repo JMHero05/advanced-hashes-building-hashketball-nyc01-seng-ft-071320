@@ -6,9 +6,9 @@ def game_hash
         "Black",
         "White"
       ],
-      :players => {
+      :players => [
         "Alan Anderson" => {}
-      }
+      ]
     },
     :away => {
       :team_name => "Charlotte Hornets",
