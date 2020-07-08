@@ -8,7 +8,7 @@ def game_hash
       ],
       :players => [
         {
-          :Alan_anderson => {},
+          :Alan_Anderson => {},
           "Reggie Evans" => {},
           "Brook Lopez" => {},
           "Mason Plumlee" => {},
